@@ -1,4 +1,4 @@
-# News Analysis: A Look at the Atlanta Shootings Coverage
+# News Analysis: Exploring the Atlanta Shootings Coverage
 
 ## Reader Tips
 
