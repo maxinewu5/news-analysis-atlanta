@@ -1,4 +1,4 @@
-# News Analysis: Exploring the Atlanta Shootings Coverage
+# News Analysis: Exploring the American News Coverage of the 2021 Atlanta Shootings 
 
 ## Introduction
 
